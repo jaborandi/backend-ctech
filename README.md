@@ -1,7 +1,5 @@
 # Getting Started with Project API
 
-### Generated with [RadSystems](https://radsystems.io)
-
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Learning Laravel
